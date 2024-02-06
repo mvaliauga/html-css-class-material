@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto";
+}
+p {
+    text-decoration: underline;
+}
+#antrasParagrafas {
+    color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: brown;
+}
+.largeText {
+    color: #ffff00;
+font-size: 32px;
+text-decoration: none;
+font-family: 'Roboto', sans-serif;
+font-weight: 700;
+font-style: italic;
+}

@@ -1,0 +1,100 @@
+header{
+    background-color: rgb(26, 20, 41);
+
+}
+nav{
+    background-color: rgb(212, 212, 15);
+    text-align: right;
+    padding: 20px;
+}
+.whiteText{
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    
+}
+header div{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+header div img{
+    width: 250px;  
+    display: block;
+    margin: auto;
+}
+section{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+section p{
+    text-align: justify;
+}
+main a{
+    display: block;
+    text-align: center;
+}
+.button{
+    background-color: red;
+    color: white;
+    padding: 10px 10px;
+    margin-left: 46%;
+    margin-right: 46%;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+main div{
+    background-color: rgb(20, 25, 131);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+caption{
+    font-size: 28px;
+    text-align: left;
+}
+table{
+    margin-left: 15%;
+    margin-right: 15%;
+    min-width: 70%;
+    color: white;
+    border-collapse: collapse;
+    padding-bottom: 50px;
+}
+td {
+    border: 2px solid red;
+    text-align: center;
+    padding: 10px;
+
+}
+th{
+    border: 2px solid red;
+}
+.smiltinis{
+    text-align: right;
+}
+.contacts{
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+.goUp{
+    padding: 10px 10px;
+    margin-left: 46%;
+    margin-right: 46%;
+    color: blue;
+}
+footer{
+    padding: 20px;
+}
+footer p{
+    text-align: center;
+    background-color:rgb(212, 212, 15);
+    color: white;
+    padding: 20px;
+}
+body{
+    padding: 30px;
+}

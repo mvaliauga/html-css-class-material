@@ -1,0 +1,24 @@
+input:focus {
+    outline: 2px solid rgb(68, 122, 68);
+}
+/* #cardNumber:in-range {
+    outline: 2px solid rgb(7, 206, 7);
+} */
+/* #cardNumber:empty {
+    outline: none;
+} */
+#cardNumber:out-of-range {
+    outline: 2px solid red;
+}
+input:valid {
+    border: 2px solid rgb(8, 199, 8);
+}
+input:invalid {
+    border: 2px solid red;
+}
+button:hover {
+    background-color: gray;
+}
+input:placeholder-shown {
+    border: 2px solid black;
+}

@@ -1,0 +1,37 @@
+/* table{
+border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    text-align: left;
+    padding: 5px;
+}
+.orange {
+    
+    background-color: orange;
+}
+.blue{
+    
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.whiteText{
+    color: white;
+} */
+
+table{
+    border-collapse: collapse;
+    border: 2px solid red;
+    margin: 20px;
+}
+th, td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+.orange{
+    background-color: orange;
+    color: white;
+}

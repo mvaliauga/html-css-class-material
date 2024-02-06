@@ -1,0 +1,27 @@
+.microsoft {
+    width: 40%;
+}
+header {
+text-align: center;
+
+}
+div {
+background-color: rgb(6, 153, 6);
+color: white;
+padding: 10px;
+margin: 10px;
+}
+div a{
+    color: white;
+    text-decoration: none;
+}
+header div {
+
+}
+.dunes{
+    margin: 10px;
+    width: 90%;
+}
+img{
+    text-align: center;
+}

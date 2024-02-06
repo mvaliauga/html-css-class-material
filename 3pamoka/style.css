@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 15px;
+    background-color: #ebcca1;
+    font-size: 20px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: burlywood;
+
+    
+}
+.halfWidth{
+    width: 48%;
+    display: inline-block;
+}
+.foto{
+    height: 525px;
+    width: 700px;
+    box-shadow: 10px 10px 30px brown;
+    border: 2px solid #ebcca1;
+    
+    
+}
+h1{
+    font-size: 50px;
+}
+.about{
+    font-size: 30px;
+    font-weight: 300;
+    width: 70%;
+}
+.description{
+    width: 70%;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}

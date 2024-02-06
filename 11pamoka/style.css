@@ -1,0 +1,85 @@
+div > div {
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 90px;
+    height: 70px;
+    font-size: 35px;
+    
+}
+.container {
+    display: flex;
+    margin-bottom: 10px;
+}
+.container1 {
+justify-content: flex-end;
+}
+.container2 {
+justify-content: center;
+}
+.container3 {
+justify-content: space-between;
+}
+.container4 {
+justify-content: space-around;
+}
+.container5 {
+    flex-wrap: wrap;
+}
+.container6 {
+    border: 2px solid red;
+    height: 200px;
+}
+.container6 > div {
+    height: unset;
+}
+.container7 {
+    border: 2px solid red;
+    height: 200px;
+    align-items: center;
+}
+.container7 > div {
+    height: unset;
+}
+.container8 {
+    border: 2px solid red;
+    height: 200px;
+    align-items: flex-end;
+}
+.container8 > div {
+    height: unset;
+}
+.bigHeight {
+    padding-top: 20px;
+    height: 100px; ;
+}
+.container9 {
+    border: 2px solid red;
+    height: 200px;
+    align-items: baseline;
+}
+.container9 > div {
+    height: unset;
+}
+.container10 {
+    border: 2px solid red;
+    height: 200px;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+.container10 > div {
+    height: unset;
+}
+.container11 {
+    border: 2px solid red;
+    height: 200px;
+   align-items: center;
+}
+.container11 > div {
+    height: unset;
+}
+.goToTop {
+    align-self: flex-start;
+}

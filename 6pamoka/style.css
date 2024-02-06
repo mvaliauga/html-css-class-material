@@ -1,0 +1,46 @@
+header{
+    border-bottom: 2px solid rgb(207, 207, 207);
+}
+section{
+    font-size: 10px;
+    height: 10px;
+}
+.bold{
+    font-weight: bold;
+}
+.leftHeader{
+    padding-bottom: 20px;
+
+
+
+}
+.rightHeader{
+
+    text-align: right;
+    
+    
+    
+}
+main{
+    padding: 15px;
+}
+p{
+    display: inline-block;
+}
+section p{
+    margin: 10px;
+}
+iframe {
+    width: 100%;
+}
+a{
+    text-decoration: none;
+color: grey;
+padding: 5px;
+}
+h4{
+    font-weight: bolder;
+}
+h5{
+    color: gray;
+}
